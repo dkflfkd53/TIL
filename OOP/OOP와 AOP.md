@@ -27,15 +27,3 @@ OOP를 대신하는 개념이 아닌 OOP를 더욱 발전시키기 위한 개념
 ## 객체지향언어의 종류
 
 JAVA, **C++, C#, Python, Kotlin, Swift 등등 다양하다.**
-
-![initial](https://prod-files-secure.s3.us-west-2.amazonaws.com/6dfb0fbb-118e-4996-b6bd-b23fee426fa3/e52365a3-66a3-468b-a126-534f14e3ffe7/Untitled.png)
-
-![initial](https://prod-files-secure.s3.us-west-2.amazonaws.com/6dfb0fbb-118e-4996-b6bd-b23fee426fa3/7441642d-5448-4019-999c-f987fc4661fc/Untitled.png)
-
-![initial](https://prod-files-secure.s3.us-west-2.amazonaws.com/6dfb0fbb-118e-4996-b6bd-b23fee426fa3/db44ac4f-0465-4b54-b81c-668cea2e58d2/Untitled.png)
-
-![initial](https://prod-files-secure.s3.us-west-2.amazonaws.com/6dfb0fbb-118e-4996-b6bd-b23fee426fa3/54cba954-39c5-430f-9f97-6a50cd85d24c/Untitled.png)
-
-![initial]([https://prod-files-secure.s3.us-west-2.amazonaws.com/6dfb0fbb-118e-4996-b6bd-b23fee426fa3/174f0b42-5bb0-4960-8a15-5e38cf0729aa/Untitled.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png))
-
-![initial](https://prod-files-secure.s3.us-west-2.amazonaws.com/6dfb0fbb-118e-4996-b6bd-b23fee426fa3/833bbbf9-44ad-43fd-9349-57069aca690a/Untitled.png)
